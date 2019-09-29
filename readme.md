@@ -1,7 +1,5 @@
 # @inshel/documents
 
-## Motivation
-
 ## Install
 
 ```bash
@@ -13,10 +11,8 @@ npm install --save @inshel/documents
 Documents oriented cloud storage.  
 With encryption.
 
-## Usage
+## API
 
-[You can use documents, as encrypted storage](./docs/crypted.md)
-
-### 0.1.0
-
-First implementation
+[Search tokens](./docs/search-tokens.md)  
+[Documents](./docs/documents.md)  
+[MultiSpaces](./docs/multi-spaces.md)  
